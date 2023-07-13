@@ -1,4 +1,4 @@
-# Crowdfunding_ETL
+
 <h1>ETL Mini Project - Crowdfunding</h1>
 
 <h2>Project Structure</h2>
