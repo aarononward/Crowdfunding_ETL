@@ -1,7 +1,6 @@
-# Crowdfunding_ETL
+
 <h1>ETL Mini Project - Crowdfunding</h1>
-less
-Copy code
+
 <h2>Project Structure</h2>
 <ul>
     <li>Data Extraction and Transformation</li>
